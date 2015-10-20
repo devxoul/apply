@@ -14,7 +14,7 @@
 
 ## 역할
 
-- BeNative iOS 앱 개발
+- BeNative Pro 서비스의iOS 앱 개발
 
 ## 지원 자격
 
