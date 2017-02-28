@@ -31,7 +31,7 @@
  - 모바일 광고 개발 경험
  - 교육용 서비스 개발 경험
  - 개발 관련 커뮤니티 활동 경험
- - Swift, CocoaPod, AFNetworking/Alamofire 사용 경험
+ - Swift, CocoaPods, AFNetworking/Alamofire 사용 경험
 
 ## 개발 환경
 
